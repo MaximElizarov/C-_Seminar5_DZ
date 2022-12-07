@@ -1,0 +1,15 @@
+C:\C#_Seminar5_DZ\DopDZ\bin\Debug\net6.0\DopDZ.exe
+C:\C#_Seminar5_DZ\DopDZ\bin\Debug\net6.0\DopDZ.deps.json
+C:\C#_Seminar5_DZ\DopDZ\bin\Debug\net6.0\DopDZ.runtimeconfig.json
+C:\C#_Seminar5_DZ\DopDZ\bin\Debug\net6.0\DopDZ.dll
+C:\C#_Seminar5_DZ\DopDZ\bin\Debug\net6.0\DopDZ.pdb
+C:\C#_Seminar5_DZ\DopDZ\obj\Debug\net6.0\DopDZ.csproj.AssemblyReference.cache
+C:\C#_Seminar5_DZ\DopDZ\obj\Debug\net6.0\DopDZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_Seminar5_DZ\DopDZ\obj\Debug\net6.0\DopDZ.AssemblyInfoInputs.cache
+C:\C#_Seminar5_DZ\DopDZ\obj\Debug\net6.0\DopDZ.AssemblyInfo.cs
+C:\C#_Seminar5_DZ\DopDZ\obj\Debug\net6.0\DopDZ.csproj.CoreCompileInputs.cache
+C:\C#_Seminar5_DZ\DopDZ\obj\Debug\net6.0\DopDZ.dll
+C:\C#_Seminar5_DZ\DopDZ\obj\Debug\net6.0\refint\DopDZ.dll
+C:\C#_Seminar5_DZ\DopDZ\obj\Debug\net6.0\DopDZ.pdb
+C:\C#_Seminar5_DZ\DopDZ\obj\Debug\net6.0\DopDZ.genruntimeconfig.cache
+C:\C#_Seminar5_DZ\DopDZ\obj\Debug\net6.0\ref\DopDZ.dll
